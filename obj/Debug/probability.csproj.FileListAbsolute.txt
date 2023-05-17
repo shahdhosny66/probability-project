@@ -1,0 +1,8 @@
+C:\Users\shahd\source\repos\probability\probability\bin\Debug\probability.exe.config
+C:\Users\shahd\source\repos\probability\probability\bin\Debug\probability.exe
+C:\Users\shahd\source\repos\probability\probability\bin\Debug\probability.pdb
+C:\Users\shahd\source\repos\probability\probability\obj\Debug\probability.csproj.AssemblyReference.cache
+C:\Users\shahd\source\repos\probability\probability\obj\Debug\probability.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahd\source\repos\probability\probability\obj\Debug\probability.csproj.CoreCompileInputs.cache
+C:\Users\shahd\source\repos\probability\probability\obj\Debug\probability.exe
+C:\Users\shahd\source\repos\probability\probability\obj\Debug\probability.pdb
